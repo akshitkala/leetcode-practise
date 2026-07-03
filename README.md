@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/akshitkala/leetcode-practise/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/akshitkala/leetcode-practise/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/akshitkala/leetcode-practise/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/akshitkala/leetcode-practise/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/akshitkala/leetcode-practise/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akshitkala/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/akshitkala/leetcode-practise/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
