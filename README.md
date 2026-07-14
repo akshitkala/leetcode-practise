@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/akshitkala/leetcode-practise/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/akshitkala/leetcode-practise/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/akshitkala/leetcode-practise/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/akshitkala/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/akshitkala/leetcode-practise/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/akshitkala/leetcode-practise/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/akshitkala/leetcode-practise/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/akshitkala/leetcode-practise/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/akshitkala/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/akshitkala/leetcode-practise/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/akshitkala/leetcode-practise/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/akshitkala/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
