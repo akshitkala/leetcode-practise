@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/akshitkala/leetcode-practise/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/akshitkala/leetcode-practise/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/akshitkala/leetcode-practise/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/akshitkala/leetcode-practise/tree/master/0054-spiral-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshitkala/leetcode-practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/akshitkala/leetcode-practise/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/akshitkala/leetcode-practise/tree/master/0219-contains-duplicate-ii) |
@@ -102,4 +103,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/akshitkala/leetcode-practise/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/akshitkala/leetcode-practise/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/akshitkala/leetcode-practise/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
