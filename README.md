@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshitkala/leetcode-practise/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/akshitkala/leetcode-practise/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/akshitkala/leetcode-practise/tree/master/0049-group-anagrams) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshitkala/leetcode-practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/akshitkala/leetcode-practise/tree/master/0217-contains-duplicate) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/akshitkala/leetcode-practise/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/akshitkala/leetcode-practise/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/akshitkala/leetcode-practise/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/akshitkala/leetcode-practise/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/akshitkala/leetcode-practise/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/akshitkala/leetcode-practise/tree/master/0217-contains-duplicate) |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/akshitkala/leetcode-practise/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshitkala/leetcode-practise/tree/master/1004-max-consecutive-ones-iii) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/akshitkala/leetcode-practise/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
