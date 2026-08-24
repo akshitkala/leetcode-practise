@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/akshitkala/leetcode-practise/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/akshitkala/leetcode-practise/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/akshitkala/leetcode-practise/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/akshitkala/leetcode-practise/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/akshitkala/leetcode-practise/tree/master/0054-spiral-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshitkala/leetcode-practise/tree/master/0209-minimum-size-subarray-sum) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/akshitkala/leetcode-practise/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/akshitkala/leetcode-practise/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/akshitkala/leetcode-practise/tree/master/0202-happy-number) |
 ## Prefix Sum
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/akshitkala/leetcode-practise/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/akshitkala/leetcode-practise/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/akshitkala/leetcode-practise/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
