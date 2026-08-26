@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/akshitkala/leetcode-practise/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/akshitkala/leetcode-practise/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/akshitkala/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/akshitkala/leetcode-practise/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/akshitkala/leetcode-practise/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/akshitkala/leetcode-practise/tree/master/0567-permutation-in-string) |
 ## String
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/akshitkala/leetcode-practise/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/akshitkala/leetcode-practise/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/akshitkala/leetcode-practise/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/akshitkala/leetcode-practise/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/akshitkala/leetcode-practise/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/akshitkala/leetcode-practise/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akshitkala/leetcode-practise/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akshitkala/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/akshitkala/leetcode-practise/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
