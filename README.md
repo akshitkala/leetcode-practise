@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/akshitkala/leetcode-practise/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/akshitkala/leetcode-practise/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/akshitkala/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/akshitkala/leetcode-practise/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/akshitkala/leetcode-practise/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/akshitkala/leetcode-practise/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshitkala/leetcode-practise/tree/master/1004-max-consecutive-ones-iii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/akshitkala/leetcode-practise/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/akshitkala/leetcode-practise/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/akshitkala/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/akshitkala/leetcode-practise/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/akshitkala/leetcode-practise/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/akshitkala/leetcode-practise/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/akshitkala/leetcode-practise/tree/master/0567-permutation-in-string) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/akshitkala/leetcode-practise/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/akshitkala/leetcode-practise/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/akshitkala/leetcode-practise/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/akshitkala/leetcode-practise/tree/master/0380-insert-delete-getrandom-o1) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -114,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akshitkala/leetcode-practise/tree/master/0054-spiral-matrix) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/akshitkala/leetcode-practise/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/akshitkala/leetcode-practise/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
