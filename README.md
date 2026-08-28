@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/akshitkala/leetcode-practise/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/akshitkala/leetcode-practise/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/akshitkala/leetcode-practise/tree/master/0054-spiral-matrix) |
+| [0134-gas-station](https://github.com/akshitkala/leetcode-practise/tree/master/0134-gas-station) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshitkala/leetcode-practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/akshitkala/leetcode-practise/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/akshitkala/leetcode-practise/tree/master/0219-contains-duplicate-ii) |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/akshitkala/leetcode-practise/tree/master/0380-insert-delete-getrandom-o1) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/akshitkala/leetcode-practise/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
