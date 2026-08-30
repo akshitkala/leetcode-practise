@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/akshitkala/leetcode-practise/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/akshitkala/leetcode-practise/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/akshitkala/leetcode-practise/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/akshitkala/leetcode-practise/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/akshitkala/leetcode-practise/tree/master/0380-insert-delete-getrandom-o1) |
 ## Prefix Sum
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/akshitkala/leetcode-practise/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshitkala/leetcode-practise/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshitkala/leetcode-practise/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/akshitkala/leetcode-practise/tree/master/0274-h-index) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/akshitkala/leetcode-practise/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
