@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/akshitkala/leetcode-practise/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/akshitkala/leetcode-practise/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/akshitkala/leetcode-practise/tree/master/0134-gas-station) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshitkala/leetcode-practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshitkala/leetcode-practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/akshitkala/leetcode-practise/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/akshitkala/leetcode-practise/tree/master/0219-contains-duplicate-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akshitkala/leetcode-practise/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/akshitkala/leetcode-practise/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/akshitkala/leetcode-practise/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshitkala/leetcode-practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshitkala/leetcode-practise/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshitkala/leetcode-practise/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
