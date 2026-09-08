@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/akshitkala/leetcode-practise/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/akshitkala/leetcode-practise/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/akshitkala/leetcode-practise/tree/master/0380-insert-delete-getrandom-o1) |
+| [3870-count-commas-in-range](https://github.com/akshitkala/leetcode-practise/tree/master/3870-count-commas-in-range) |
 ## Prefix Sum
 |  |
 | ------- |
