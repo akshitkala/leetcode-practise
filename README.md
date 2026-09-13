@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/akshitkala/leetcode-practise/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/akshitkala/leetcode-practise/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/akshitkala/leetcode-practise/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/akshitkala/leetcode-practise/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/akshitkala/leetcode-practise/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/akshitkala/leetcode-practise/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/akshitkala/leetcode-practise/tree/master/0134-gas-station) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/akshitkala/leetcode-practise/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/akshitkala/leetcode-practise/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/akshitkala/leetcode-practise/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/akshitkala/leetcode-practise/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/akshitkala/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/akshitkala/leetcode-practise/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/akshitkala/leetcode-practise/tree/master/0739-daily-temperatures) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/akshitkala/leetcode-practise/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
