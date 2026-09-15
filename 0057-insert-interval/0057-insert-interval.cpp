@@ -1,23 +1,22 @@
 class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
-        vector<vector<int>> result;
-        intervals.push_back(newInterval);
         int n= intervals.size();
-        sort(intervals.begin(),intervals.end());
-        int start=intervals[0][0];
-        int end= intervals[0][1];
-        for(int i=1;i<=n;i++){
-            if(i==n || intervals[i][0]>end){
-                result.push_back({start,end});
-                if(i!=n){
-                    start=intervals[i][0];
-                    end=intervals[i][1];
-                }
-            }else{
-                start=min(start,intervals[i][0]);
-                end=max(end,intervals[i][1]);
-            }
+        vector<vector<int>> result;
+        int i=0;
+        while(i<n && intervals[i][1]<newInterval[0]){
+            result.push_back({intervals[i][0],intervals[i][1]});
+            i++;
+        }
+        while(i<n && intervals[i][0]<=newInterval[1]){
+            newInterval[0]=min(newInterval[0],intervals[i][0]);
+            newInterval[1]=max(newInterval[1],intervals[i][1]);
+            i++;
+        }
+        result.push_back({newInterval[0],newInterval[1]});
+        while(i<n ){
+            result.push_back({intervals[i][0],intervals[i][1]});
+            i++;
         }
         return result;
     }
