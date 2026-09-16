@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/akshitkala/leetcode-practise/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/akshitkala/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/akshitkala/leetcode-practise/tree/master/0380-insert-delete-getrandom-o1) |
+| [0435-non-overlapping-intervals](https://github.com/akshitkala/leetcode-practise/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/akshitkala/leetcode-practise/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/akshitkala/leetcode-practise/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/akshitkala/leetcode-practise/tree/master/0643-maximum-average-subarray-i) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/akshitkala/leetcode-practise/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/akshitkala/leetcode-practise/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/akshitkala/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/akshitkala/leetcode-practise/tree/master/0435-non-overlapping-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/akshitkala/leetcode-practise/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/akshitkala/leetcode-practise/tree/master/0435-non-overlapping-intervals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/akshitkala/leetcode-practise/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/akshitkala/leetcode-practise/tree/master/0435-non-overlapping-intervals) |
 ## Union-Find
 |  |
 | ------- |
