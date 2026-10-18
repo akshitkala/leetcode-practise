@@ -1,24 +1,15 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        unordered_map<char,char> mp1;
-        unordered_map<char,char> mp2;
-        for(int i=0;i<s.size();i++){
-            
-           if(mp1.find(s[i])!=mp1.end() && mp1[s[i]]!=t[i]) return false;
-           else if(mp2.find(t[i])!=mp2.end() && mp2[t[i]]!=s[i]) return false;
-           else{
-            mp1[s[i]]=t[i];
-            mp2[t[i]]=s[i];
-           }
+    if (s.size() != t.size()) return false;
+    vector<int> m1(256, -1), m2(256, -1);        
+    for (int i = 0; i < (int)s.size(); i++) {
+        if (m1[s[i]] == -1 && m2[t[i]] == -1) {  
+            m1[s[i]] = t[i];
+            m2[t[i]] = s[i];
         }
-        for(auto c:mp1){
-            cout<<c.first<<" "<<c.second<<"\n";
-        }
-        cout<<"\n";
-        for(auto c:mp2){
-            cout<<c.first<<" "<<c.second<<"\n";
-        }
-        return true;
+        else if (m1[s[i]] != t[i] || m2[t[i]] != s[i]) return false;
     }
+    return true;
+}
 };
