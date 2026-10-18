@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/akshitkala/leetcode-practise/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/akshitkala/leetcode-practise/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/akshitkala/leetcode-practise/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/akshitkala/leetcode-practise/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/akshitkala/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/akshitkala/leetcode-practise/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/akshitkala/leetcode-practise/tree/master/0383-ransom-note) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/akshitkala/leetcode-practise/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/akshitkala/leetcode-practise/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/akshitkala/leetcode-practise/tree/master/0151-reverse-words-in-a-string) |
+| [0290-word-pattern](https://github.com/akshitkala/leetcode-practise/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/akshitkala/leetcode-practise/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/akshitkala/leetcode-practise/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/akshitkala/leetcode-practise/tree/master/0567-permutation-in-string) |
