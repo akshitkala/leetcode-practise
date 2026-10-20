@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/akshitkala/leetcode-practise/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/akshitkala/leetcode-practise/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akshitkala/leetcode-practise/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1903-largest-odd-number-in-string](https://github.com/akshitkala/leetcode-practise/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/akshitkala/leetcode-practise/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/akshitkala/leetcode-practise/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/akshitkala/leetcode-practise/tree/master/0380-insert-delete-getrandom-o1) |
+| [1903-largest-odd-number-in-string](https://github.com/akshitkala/leetcode-practise/tree/master/1903-largest-odd-number-in-string) |
 | [3870-count-commas-in-range](https://github.com/akshitkala/leetcode-practise/tree/master/3870-count-commas-in-range) |
 ## Prefix Sum
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/akshitkala/leetcode-practise/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/akshitkala/leetcode-practise/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akshitkala/leetcode-practise/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1903-largest-odd-number-in-string](https://github.com/akshitkala/leetcode-practise/tree/master/1903-largest-odd-number-in-string) |
 ## Union-Find
 |  |
 | ------- |
