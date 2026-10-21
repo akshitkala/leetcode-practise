@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/akshitkala/leetcode-practise/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/akshitkala/leetcode-practise/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akshitkala/leetcode-practise/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshitkala/leetcode-practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/akshitkala/leetcode-practise/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
@@ -201,10 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/akshitkala/leetcode-practise/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/akshitkala/leetcode-practise/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/akshitkala/leetcode-practise/tree/master/0739-daily-temperatures) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshitkala/leetcode-practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshitkala/leetcode-practise/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshitkala/leetcode-practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
 | ------- |
