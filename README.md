@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/akshitkala/leetcode-practise/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/akshitkala/leetcode-practise/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/akshitkala/leetcode-practise/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/akshitkala/leetcode-practise/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/akshitkala/leetcode-practise/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/akshitkala/leetcode-practise/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/akshitkala/leetcode-practise/tree/master/0290-word-pattern) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/akshitkala/leetcode-practise/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/akshitkala/leetcode-practise/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/akshitkala/leetcode-practise/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/akshitkala/leetcode-practise/tree/master/0392-is-subsequence) |
