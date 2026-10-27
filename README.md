@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/akshitkala/leetcode-practise/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/akshitkala/leetcode-practise/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/akshitkala/leetcode-practise/tree/master/0739-daily-temperatures) |
+| [0904-fruit-into-baskets](https://github.com/akshitkala/leetcode-practise/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshitkala/leetcode-practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akshitkala/leetcode-practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/akshitkala/leetcode-practise/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/akshitkala/leetcode-practise/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/akshitkala/leetcode-practise/tree/master/0645-set-mismatch) |
+| [0904-fruit-into-baskets](https://github.com/akshitkala/leetcode-practise/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/akshitkala/leetcode-practise/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/akshitkala/leetcode-practise/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/akshitkala/leetcode-practise/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/akshitkala/leetcode-practise/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshitkala/leetcode-practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akshitkala/leetcode-practise/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Math
